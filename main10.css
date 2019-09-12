@@ -67,7 +67,8 @@ body{
 .form{
 	padding: 3px;
 }
-.maps{
+.iframe{
+	border: 0px;
 	margin-left: 80px;
 }
 .portofolio{
